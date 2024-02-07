@@ -1,6 +1,6 @@
 ## 1. Burger Ad
 This is a simple Ad created on Blender. 
-This  project showcases one ability to create animate objects and use various animators.
+This  project showcases one ability to create animate objects and use various modifiers like subdivision, collision, cloth, and solidify modifiers.
 
 ## Images
 
